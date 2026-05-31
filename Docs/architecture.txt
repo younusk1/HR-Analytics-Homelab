@@ -1,0 +1,33 @@
+Tech stack
+
+Windows
+│
+├── VS Code
+├── Git
+├── Python
+├── Docker Desktop
+│
+└── Containers
+      ├── PostgreSQL
+      ├── Metabase
+      └── n8n
+
+
+
+Workflow
+
+Python
+  ↓
+CSV
+  ↓
+PostgreSQL
+  ↓
+Metabase
+  ↓
+Dashboard
+
+PostgreSQL
+  ↓
+n8n
+  ↓
+Email Reports

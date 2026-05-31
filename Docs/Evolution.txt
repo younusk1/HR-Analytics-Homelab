@@ -1,0 +1,54 @@
+Phase 1: Analytics 
+
+- PostgreSQL
+- Python
+- Metabase
+
+Python
+ ↓
+CSV
+ ↓
+Postgres
+ ↓
+Metabase
+
+Goal: Build dashboards.
+
+//No Dockerfile//
+
+Phase 2: Automation
+
+- Add n8n
+
+//Goal: Automated reporting and alerts.//
+
+//Containerize PostgreSQL, Metabase, and n8n.
+
+Still no Dockerfile.//
+
+
+Phase 3: Engineering
+
+- Containerize Python ETL with a Dockerfile
+- Add scheduled jobs
+- Add CI/CD using GitHub Actions
+
+//Goal: Demonstrate analytics engineering and product engineering skills.//
+
+//Containerize your Python ETL.//
+
+//Add://
+
+docker/
+│
+└── python-etl/
+    ├── Dockerfile
+    └── requirements.txt
+
+//Now you have://
+
+Docker Compose
+├── postgres
+├── metabase
+├── n8n
+└── python-etl

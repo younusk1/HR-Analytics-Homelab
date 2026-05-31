@@ -1,0 +1,17 @@
+/n8n
+
+//Exported workflows.//
+
+//Example://
+
+retention_alert.json
+
+//Workflow://
+
+Cron
+ ↓
+SQL Query
+ ↓
+Calculate Risk
+ ↓
+Email Alert

@@ -1,0 +1,24 @@
+Once you've got everything running, then introduce a Dockerfile.
+
+Example:
+
+python-etl/
+│
+├── Dockerfile
+├── generate_data.py
+├── load_postgres.py
+└── requirements.txt
+
+
+Dockerfile:
+
+FROM python:3.12-slim
+
+WORKDIR /app
+
+COPY requirements.txt .
+RUN pip install -r requirements.txt
+
+COPY . .
+
+CMD ["python", "generate_data.py"]

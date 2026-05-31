@@ -1,0 +1,16 @@
+/python
+
+Business logic.
+
+Examples:
+
+//Generates fake HR data//
+
+generate_data.py
+
+//Loads CSVs into PostgreSQL.//
+
+load_postgres.py
+
+//Creates summary tables.//
+calculate_kpis.py

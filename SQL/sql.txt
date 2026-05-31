@@ -1,0 +1,12 @@
+/sql
+Everything PostgreSQL.
+
+CREATE TABLE employees (...)
+
+and
+
+SELECT
+department,
+COUNT(*) AS headcount
+FROM employees
+GROUP BY department;

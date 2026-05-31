@@ -1,0 +1,5 @@
+| Column         | Description                |
+| -------------- | -------------------------- |
+| employee_id    | Unique employee identifier |
+| hire_date      | Date hired                 |
+| manager_rating | Annual review score        |
