@@ -1,0 +1,416 @@
+record_id,employee_id,training_name,completion_date,score
+1,1,DEI Workshop,2025-05-08,
+2,1,Customer Service Excellence,2023-01-12,83
+3,2,Data Privacy,2016-02-21,93
+4,2,Project Management,2019-05-25,77
+5,3,Python Basics,2018-05-17,91
+6,4,Project Management,2020-06-03,73
+7,4,Financial Analysis,2024-05-13,91
+8,4,Leadership 101,2019-09-30,
+9,4,Sales Negotiation,2018-05-02,88
+10,6,DEI Workshop,2022-12-13,78
+11,6,Data Privacy,2024-04-08,100
+12,7,DEI Workshop,2025-05-12,72
+13,8,Customer Service Excellence,2024-11-02,83
+14,9,DEI Workshop,2020-09-12,
+15,9,Customer Service Excellence,2024-03-12,90
+16,9,Financial Analysis,2024-05-03,96
+17,9,Python Basics,2020-07-23,
+18,10,Python Basics,2020-07-23,82
+19,10,Customer Service Excellence,2016-10-09,95
+20,11,Sales Negotiation,2023-02-02,63
+21,11,Project Management,2018-11-04,79
+22,11,Python Basics,2019-04-19,
+23,11,Customer Service Excellence,2025-05-28,93
+24,12,Python Basics,2021-10-07,95
+25,12,Sales Negotiation,2022-03-16,
+26,13,Python Basics,2022-06-26,
+27,13,Financial Analysis,2021-10-22,
+28,14,DEI Workshop,2017-07-19,
+29,14,Project Management,2024-06-03,76
+30,14,Financial Analysis,2024-07-13,96
+31,14,Leadership 101,2021-11-25,61
+32,15,Financial Analysis,2024-12-29,85
+33,15,DEI Workshop,2023-12-15,63
+34,15,Sales Negotiation,2023-03-04,90
+35,16,Customer Service Excellence,2021-12-01,80
+36,16,Sales Negotiation,2025-03-24,82
+37,16,Financial Analysis,2023-05-07,
+38,17,Python Basics,2020-03-07,77
+39,17,Sales Negotiation,2022-07-06,66
+40,19,Project Management,2024-12-09,70
+41,19,Data Privacy,2025-03-20,96
+42,20,Customer Service Excellence,2023-12-16,92
+43,20,Project Management,2024-10-26,79
+44,21,Leadership 101,2024-03-30,75
+45,21,Data Privacy,2023-06-07,63
+46,21,Customer Service Excellence,2022-12-20,98
+47,22,Financial Analysis,2020-01-08,76
+48,22,Data Privacy,2022-12-01,83
+49,22,Leadership 101,2019-04-28,96
+50,23,Customer Service Excellence,2017-07-26,88
+51,23,Sales Negotiation,2025-04-24,99
+52,23,Financial Analysis,2024-05-15,68
+53,23,Project Management,2017-10-29,81
+54,24,DEI Workshop,2025-04-01,92
+55,24,Project Management,2023-09-04,
+56,24,Python Basics,2023-12-12,90
+57,24,Data Privacy,2025-01-06,98
+58,25,Sales Negotiation,2017-12-19,99
+59,25,Data Privacy,2024-06-08,97
+60,25,Financial Analysis,2019-12-01,92
+61,25,Project Management,2022-02-11,96
+62,26,Data Privacy,2019-06-13,67
+63,26,Project Management,2023-12-07,100
+64,28,Data Privacy,2025-01-02,63
+65,28,Sales Negotiation,2025-01-15,93
+66,28,DEI Workshop,2025-04-18,84
+67,28,Financial Analysis,2022-08-06,75
+68,30,Python Basics,2024-01-23,86
+69,30,Data Privacy,2025-02-12,92
+70,30,Leadership 101,2025-05-09,90
+71,30,Customer Service Excellence,2025-03-30,68
+72,31,Customer Service Excellence,2023-12-17,71
+73,31,Financial Analysis,2023-08-04,81
+74,31,Sales Negotiation,2024-01-28,76
+75,31,Data Privacy,2024-06-07,75
+76,32,Financial Analysis,2025-05-14,73
+77,32,Python Basics,2025-05-27,80
+78,33,DEI Workshop,2018-12-13,96
+79,33,Financial Analysis,2023-06-21,85
+80,33,Data Privacy,2025-01-22,69
+81,34,Leadership 101,2019-03-04,88
+82,34,Sales Negotiation,2021-02-28,73
+83,35,Financial Analysis,2025-02-01,68
+84,37,Customer Service Excellence,2023-07-14,63
+85,37,Python Basics,2023-03-07,90
+86,37,Leadership 101,2023-03-07,68
+87,37,Financial Analysis,2022-11-30,70
+88,38,Data Privacy,2017-09-30,78
+89,38,Customer Service Excellence,2019-02-11,63
+90,38,DEI Workshop,2024-02-18,
+91,39,Customer Service Excellence,2019-07-09,71
+92,39,Financial Analysis,2017-12-17,85
+93,39,DEI Workshop,2023-02-10,
+94,39,Leadership 101,2020-10-19,60
+95,40,Python Basics,2019-01-31,94
+96,40,Sales Negotiation,2021-10-09,68
+97,41,Data Privacy,2025-03-07,
+98,41,Sales Negotiation,2025-05-11,71
+99,41,Python Basics,2024-09-26,78
+100,41,Leadership 101,2024-12-26,
+101,42,Project Management,2020-03-26,66
+102,42,Financial Analysis,2021-05-01,90
+103,42,Sales Negotiation,2022-11-21,60
+104,43,Project Management,2022-08-03,81
+105,43,Python Basics,2021-10-11,96
+106,45,DEI Workshop,2019-06-22,
+107,45,Data Privacy,2018-02-24,70
+108,46,Financial Analysis,2022-04-17,74
+109,46,DEI Workshop,2021-06-10,90
+110,46,Leadership 101,2020-09-13,98
+111,47,Project Management,2025-02-26,73
+112,47,DEI Workshop,2023-11-26,98
+113,49,Data Privacy,2022-09-14,67
+114,49,Financial Analysis,2022-08-12,92
+115,49,DEI Workshop,2023-05-27,69
+116,49,Sales Negotiation,2023-03-10,93
+117,50,Python Basics,2025-02-06,92
+118,50,DEI Workshop,2024-04-30,89
+119,50,Data Privacy,2022-07-28,89
+120,51,Leadership 101,2025-01-10,
+121,51,Financial Analysis,2019-10-09,73
+122,51,Customer Service Excellence,2023-05-27,
+123,51,Sales Negotiation,2021-09-01,64
+124,52,Leadership 101,2023-12-24,68
+125,52,Data Privacy,2025-04-28,86
+126,52,Customer Service Excellence,2024-03-23,84
+127,52,Project Management,2024-06-07,84
+128,53,Python Basics,2022-11-17,
+129,53,DEI Workshop,2020-09-24,
+130,53,Project Management,2022-11-09,68
+131,54,Leadership 101,2019-07-06,89
+132,55,Project Management,2025-05-21,69
+133,55,Financial Analysis,2025-05-22,
+134,55,Customer Service Excellence,2025-06-01,67
+135,55,Python Basics,2025-05-18,86
+136,56,Leadership 101,2022-12-31,88
+137,56,Python Basics,2024-05-23,63
+138,56,Project Management,2023-05-27,85
+139,56,Data Privacy,2023-12-12,73
+140,58,Financial Analysis,2021-04-06,96
+141,59,DEI Workshop,2020-12-14,93
+142,59,Python Basics,2020-01-18,77
+143,61,Sales Negotiation,2025-01-21,
+144,61,DEI Workshop,2023-05-12,84
+145,61,Project Management,2025-05-19,86
+146,61,Customer Service Excellence,2024-01-29,
+147,62,Sales Negotiation,2021-01-19,74
+148,62,Project Management,2019-02-11,69
+149,62,Financial Analysis,2024-10-11,63
+150,63,Project Management,2025-04-15,76
+151,63,Customer Service Excellence,2025-04-24,65
+152,63,Financial Analysis,2025-05-25,65
+153,63,DEI Workshop,2025-04-22,
+154,64,Leadership 101,2024-12-16,97
+155,64,Project Management,2025-05-02,73
+156,64,Data Privacy,2025-02-28,81
+157,65,Leadership 101,2020-08-28,67
+158,65,Python Basics,2023-11-24,98
+159,66,Project Management,2023-09-10,78
+160,67,Data Privacy,2023-06-19,83
+161,67,Financial Analysis,2025-03-09,89
+162,67,DEI Workshop,2020-07-16,90
+163,68,Customer Service Excellence,2021-11-24,96
+164,68,Sales Negotiation,2024-12-27,69
+165,70,Project Management,2019-06-23,
+166,70,Sales Negotiation,2020-05-06,75
+167,71,DEI Workshop,2025-05-08,91
+168,71,Sales Negotiation,2023-11-17,
+169,71,Customer Service Excellence,2023-04-09,
+170,72,Data Privacy,2023-10-28,
+171,72,Python Basics,2018-10-12,63
+172,72,Financial Analysis,2018-01-07,100
+173,72,Leadership 101,2020-07-16,
+174,73,Leadership 101,2022-10-12,83
+175,75,Data Privacy,2019-07-21,86
+176,75,DEI Workshop,2019-08-11,
+177,75,Customer Service Excellence,2022-07-23,78
+178,75,Leadership 101,2019-09-02,87
+179,76,Python Basics,2018-07-16,75
+180,77,Financial Analysis,2025-04-14,85
+181,79,Project Management,2024-12-30,74
+182,79,Customer Service Excellence,2025-01-28,65
+183,82,Project Management,2025-01-26,
+184,82,Customer Service Excellence,2019-11-03,65
+185,82,Financial Analysis,2025-05-04,81
+186,83,Python Basics,2018-01-30,96
+187,83,Financial Analysis,2021-01-16,64
+188,83,Leadership 101,2023-05-22,94
+189,83,Data Privacy,2022-01-12,71
+190,84,Leadership 101,2020-11-23,85
+191,84,Python Basics,2020-02-22,96
+192,85,Project Management,2024-01-17,81
+193,86,Sales Negotiation,2018-09-12,82
+194,86,Project Management,2018-06-02,
+195,86,DEI Workshop,2020-06-02,81
+196,87,Project Management,2025-01-12,88
+197,87,Data Privacy,2025-05-04,95
+198,87,Sales Negotiation,2025-03-06,97
+199,87,Leadership 101,2025-03-08,
+200,88,Financial Analysis,2022-11-10,84
+201,88,Project Management,2024-08-15,69
+202,88,Python Basics,2024-09-13,83
+203,88,Leadership 101,2022-12-05,
+204,89,Data Privacy,2024-10-27,68
+205,89,Sales Negotiation,2017-04-06,
+206,90,Project Management,2024-12-25,65
+207,90,Leadership 101,2025-05-04,80
+208,90,Data Privacy,2025-03-11,
+209,91,Project Management,2024-12-26,75
+210,91,Data Privacy,2025-01-08,84
+211,91,Leadership 101,2023-11-23,
+212,92,Financial Analysis,2024-01-11,
+213,92,Customer Service Excellence,2024-11-02,79
+214,93,Python Basics,2021-07-31,91
+215,93,Sales Negotiation,2021-01-02,68
+216,93,Project Management,2022-03-25,
+217,94,DEI Workshop,2022-07-21,81
+218,94,Project Management,2023-03-25,98
+219,94,Financial Analysis,2019-10-26,98
+220,95,Data Privacy,2020-04-17,
+221,96,DEI Workshop,2022-10-30,96
+222,96,Sales Negotiation,2023-10-21,84
+223,96,Data Privacy,2018-03-07,85
+224,97,Python Basics,2024-12-17,94
+225,97,Financial Analysis,2024-12-12,95
+226,99,Customer Service Excellence,2023-09-26,86
+227,99,Data Privacy,2024-12-10,
+228,99,Sales Negotiation,2024-05-23,69
+229,100,Project Management,2024-01-17,85
+230,100,Leadership 101,2023-09-09,86
+231,100,Customer Service Excellence,2023-09-28,
+232,101,Python Basics,2025-04-19,82
+233,101,Leadership 101,2024-11-16,62
+234,102,Project Management,2019-07-14,
+235,102,Data Privacy,2021-03-31,93
+236,102,Sales Negotiation,2024-08-08,96
+237,102,Customer Service Excellence,2020-10-28,85
+238,103,Sales Negotiation,2023-05-26,
+239,103,Data Privacy,2023-01-09,65
+240,103,Leadership 101,2021-05-05,69
+241,104,Financial Analysis,2022-05-03,93
+242,104,Sales Negotiation,2022-08-24,66
+243,105,Data Privacy,2022-07-23,
+244,105,Sales Negotiation,2020-06-25,
+245,105,Leadership 101,2023-01-15,70
+246,106,Sales Negotiation,2024-02-22,
+247,107,Project Management,2025-05-30,
+248,107,Customer Service Excellence,2025-05-30,85
+249,107,Python Basics,2025-04-21,72
+250,107,Data Privacy,2025-05-18,84
+251,109,Customer Service Excellence,2022-01-15,64
+252,110,Python Basics,2020-05-10,89
+253,110,Project Management,2017-07-13,91
+254,110,Financial Analysis,2022-03-04,80
+255,110,Data Privacy,2022-12-13,85
+256,111,Python Basics,2025-04-15,
+257,111,Sales Negotiation,2025-04-29,79
+258,111,Project Management,2025-04-14,68
+259,111,Customer Service Excellence,2025-01-27,
+260,112,Python Basics,2021-11-14,92
+261,112,Data Privacy,2022-01-15,68
+262,113,Project Management,2024-10-29,71
+263,113,Customer Service Excellence,2023-12-03,
+264,113,Python Basics,2020-12-09,
+265,113,Data Privacy,2021-03-24,99
+266,115,Leadership 101,2023-08-03,
+267,115,Customer Service Excellence,2024-04-13,92
+268,116,Project Management,2024-09-24,88
+269,116,DEI Workshop,2024-11-01,
+270,116,Customer Service Excellence,2024-12-10,
+271,117,Financial Analysis,2023-08-15,94
+272,118,Sales Negotiation,2024-11-13,91
+273,118,Project Management,2025-02-15,96
+274,120,DEI Workshop,2024-12-09,88
+275,120,Financial Analysis,2023-05-23,87
+276,122,Financial Analysis,2021-02-05,82
+277,124,Python Basics,2025-06-01,97
+278,124,Project Management,2025-06-01,99
+279,124,Data Privacy,2025-06-01,
+280,125,Customer Service Excellence,2024-01-18,96
+281,126,Financial Analysis,2024-03-30,
+282,126,Data Privacy,2024-09-15,96
+283,127,Python Basics,2025-02-05,63
+284,127,Data Privacy,2023-10-09,68
+285,128,Customer Service Excellence,2021-02-11,75
+286,129,Data Privacy,2023-10-17,84
+287,129,Python Basics,2024-10-26,
+288,129,Financial Analysis,2022-10-22,77
+289,130,Data Privacy,2021-09-30,65
+290,130,Customer Service Excellence,2024-01-04,100
+291,131,Python Basics,2023-01-22,87
+292,131,Project Management,2024-09-08,77
+293,132,Financial Analysis,2023-12-01,96
+294,132,Sales Negotiation,2023-03-22,63
+295,135,Leadership 101,2023-09-07,87
+296,135,Data Privacy,2022-05-06,68
+297,135,Python Basics,2024-11-08,77
+298,137,Financial Analysis,2019-04-02,70
+299,137,Leadership 101,2015-08-30,79
+300,138,Project Management,2024-10-10,
+301,141,Data Privacy,2024-09-30,
+302,142,Data Privacy,2015-11-25,
+303,143,Python Basics,2022-05-27,90
+304,143,Project Management,2018-06-18,65
+305,146,DEI Workshop,2018-01-07,68
+306,146,Sales Negotiation,2023-09-04,69
+307,148,Leadership 101,2023-12-06,73
+308,148,Financial Analysis,2024-12-25,86
+309,148,DEI Workshop,2024-11-30,73
+310,148,Python Basics,2021-12-12,68
+311,150,Project Management,2025-03-01,
+312,150,Sales Negotiation,2024-06-10,75
+313,150,Customer Service Excellence,2024-10-30,98
+314,150,Data Privacy,2024-06-14,61
+315,151,Customer Service Excellence,2023-12-09,85
+316,151,Financial Analysis,2020-06-12,75
+317,152,Project Management,2021-09-09,64
+318,152,Leadership 101,2022-01-04,60
+319,152,Python Basics,2020-02-20,68
+320,153,Project Management,2023-08-30,
+321,153,Sales Negotiation,2022-06-22,64
+322,153,Financial Analysis,2019-12-05,60
+323,154,Customer Service Excellence,2020-06-04,85
+324,154,Leadership 101,2022-12-17,92
+325,155,Project Management,2020-09-11,94
+326,155,DEI Workshop,2023-09-09,
+327,155,Customer Service Excellence,2020-09-14,92
+328,156,Sales Negotiation,2021-08-15,97
+329,158,Project Management,2018-10-12,
+330,158,DEI Workshop,2017-01-26,67
+331,159,Leadership 101,2021-06-26,
+332,159,Sales Negotiation,2021-01-20,70
+333,159,DEI Workshop,2025-01-30,93
+334,160,Financial Analysis,2021-10-25,67
+335,160,Python Basics,2019-02-18,87
+336,160,Sales Negotiation,2021-11-08,76
+337,160,Project Management,2025-04-08,91
+338,161,DEI Workshop,2024-02-22,
+339,161,Leadership 101,2019-07-21,66
+340,161,Customer Service Excellence,2024-03-22,67
+341,162,Leadership 101,2017-08-17,60
+342,163,Leadership 101,2022-09-04,69
+343,164,Leadership 101,2024-06-07,75
+344,165,DEI Workshop,2024-07-13,92
+345,165,Sales Negotiation,2018-09-17,
+346,165,Leadership 101,2023-11-27,85
+347,167,Financial Analysis,2021-10-21,
+348,167,Project Management,2022-07-13,
+349,167,Sales Negotiation,2021-02-03,79
+350,168,Customer Service Excellence,2021-08-18,72
+351,168,Data Privacy,2024-04-24,75
+352,168,Sales Negotiation,2017-10-14,
+353,168,Financial Analysis,2020-09-11,
+354,169,DEI Workshop,2024-03-11,
+355,169,Data Privacy,2024-06-03,79
+356,169,Project Management,2022-11-23,75
+357,169,Leadership 101,2024-08-31,63
+358,170,Financial Analysis,2024-07-03,
+359,171,Project Management,2023-11-27,89
+360,173,Python Basics,2020-11-12,63
+361,173,Financial Analysis,2022-11-19,68
+362,173,Data Privacy,2021-10-09,80
+363,173,Customer Service Excellence,2024-12-08,80
+364,174,Data Privacy,2020-01-06,
+365,174,Sales Negotiation,2019-09-02,
+366,175,Python Basics,2025-04-11,86
+367,175,Data Privacy,2025-02-28,73
+368,175,Leadership 101,2025-04-11,76
+369,175,Project Management,2025-02-28,
+370,176,Leadership 101,2020-07-09,
+371,176,Python Basics,2024-10-26,82
+372,177,Leadership 101,2017-12-09,71
+373,177,DEI Workshop,2015-05-16,88
+374,177,Sales Negotiation,2021-04-04,75
+375,179,Python Basics,2019-07-24,
+376,179,Project Management,2020-09-09,
+377,179,Data Privacy,2022-09-09,100
+378,181,Financial Analysis,2023-12-19,
+379,181,Project Management,2025-01-10,65
+380,181,Leadership 101,2024-09-17,
+381,181,DEI Workshop,2025-01-28,
+382,182,Project Management,2025-03-16,
+383,182,Data Privacy,2024-10-24,
+384,182,DEI Workshop,2023-08-17,77
+385,182,Customer Service Excellence,2023-12-29,69
+386,184,Customer Service Excellence,2021-09-30,90
+387,184,DEI Workshop,2017-10-23,
+388,184,Sales Negotiation,2021-06-03,
+389,184,Data Privacy,2019-05-13,93
+390,185,Leadership 101,2021-09-23,82
+391,186,Data Privacy,2024-04-23,77
+392,186,Sales Negotiation,2022-07-03,
+393,186,Financial Analysis,2024-11-03,77
+394,188,DEI Workshop,2024-01-15,66
+395,188,Project Management,2024-01-30,77
+396,188,Financial Analysis,2024-11-18,63
+397,189,Project Management,2019-08-15,71
+398,190,Customer Service Excellence,2024-11-14,82
+399,191,Leadership 101,2023-10-27,96
+400,191,DEI Workshop,2021-09-10,91
+401,191,Project Management,2023-09-05,91
+402,191,Sales Negotiation,2020-11-06,
+403,192,Customer Service Excellence,2016-12-26,60
+404,193,Customer Service Excellence,2021-06-05,71
+405,193,Project Management,2025-03-12,80
+406,196,Sales Negotiation,2024-06-11,
+407,197,DEI Workshop,2024-10-21,80
+408,197,Leadership 101,2024-11-08,87
+409,197,Sales Negotiation,2025-05-07,71
+410,197,Customer Service Excellence,2025-03-01,97
+411,198,Project Management,2022-12-19,78
+412,199,Sales Negotiation,2024-12-25,96
+413,200,Leadership 101,2021-04-30,99
+414,200,Python Basics,2020-03-27,66
+415,200,Financial Analysis,2023-04-29,
