@@ -12,7 +12,7 @@ This is a homelab project to produce:
 
 This project demonstrates a modern data stack combining Python data engineering, PostgreSQL, workflow automation, and business intelligence dashboards.
 
-## Problem Statement
+## Problem Statement (hypothetical)
 
 HR departments face significant challenges in managing and analyzing workforce data:
 
@@ -25,14 +25,14 @@ HR departments face significant challenges in managing and analyzing workforce d
 
 ## Solution
 
-A fully integrated HR Analytics platform built on a modern, scalable tech stack:
+A fully integrated HR Analytics platform built on a modern, scalable tech stack.
 
 ### Technology Stack
 
 - **PostgreSQL** - Centralized data warehouse for employee, performance, and training data
 - **Python** - ETL scripts for data generation, transformation, and loading
 - **Metabase** - Business intelligence and dashboard visualization tool
-- **n8n** - Low-code workflow automation and data pipeline orchestration
+- **n8n** - Workflow automation and data pipeline orchestration
 - **Docker** - Containerization for easy deployment and environment consistency
 
 ### Core Features
@@ -80,15 +80,13 @@ A fully integrated HR Analytics platform built on a modern, scalable tech stack:
 HR-Analytics-Homelab/
 ├── docker-compose.yml          # Docker Compose configuration for services
 ├── Dockerfile                  # Container image definition
-├── employees.csv               # Generated employee master data
-├── managers.csv                # Manager hierarchy and relationships
 ├── Python/
 │   ├── generate_data.py        # Dummy data generation script
 │   └── python.txt              # Python dependencies and docs
 ├── SQL/
 │   └── sql.txt                 # Database schema and setup scripts
 ├── Data/
-│   ├── Raw/                    # Raw input data files
+│   ├── Raw/                    # Raw input data files (five .CSV files)
 │   └── Processed/              # Processed and cleaned data
 ├── Dashboards/
 │   └── dashboards.txt          # Metabase dashboard configurations
@@ -97,10 +95,8 @@ HR-Analytics-Homelab/
 ├── Docs/
 │   ├── architecture.txt        # System architecture documentation
 │   ├── data_dictionary.txt     # Data schema and field definitions
-│   ├── dockerfile.txt          # Docker setup guide
 │   ├── Evolution.txt           # Project evolution and iterations
 │   ├── project_journal.txt     # Development journal and notes
-│   └── License.txt             # Project licensing information
 └── Readme.md                   # This file
 ```
 
@@ -117,7 +113,7 @@ HR-Analytics-Homelab/
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/younusk1/HR-Analytics-Homelab
    cd HR-Analytics-Homelab
    ```
 
