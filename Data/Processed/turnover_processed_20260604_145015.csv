@@ -1,0 +1,31 @@
+turnover_id,employee_id,termination_date,reason
+1,191,2023-05-27,Performance issues
+2,20,2024-06-29,Performance issues
+3,61,2020-08-20,End of contract
+4,89,2025-02-16,Retirement
+5,82,2021-07-23,End of contract
+6,43,2020-06-30,Better offer
+7,163,2021-09-06,Better offer
+8,23,2020-04-25,Layoff
+9,182,2023-01-04,Relocation
+10,172,2020-09-12,Career change
+11,164,2023-12-10,Career change
+12,187,2025-03-08,Relocation
+13,86,2023-12-14,Relocation
+14,115,2024-02-26,End of contract
+15,3,2018-06-06,Performance issues
+16,68,2023-10-23,Career change
+17,54,2024-02-15,Career change
+18,64,2024-11-11,Relocation
+19,178,2021-09-08,Retirement
+20,18,2022-09-03,Performance issues
+21,90,2025-05-30,Layoff
+22,66,2023-12-05,Layoff
+23,28,2023-02-06,Relocation
+24,1,2022-06-13,Performance issues
+25,13,2021-09-15,End of contract
+26,99,2023-12-22,Better offer
+27,113,2021-09-29,Better offer
+28,108,2024-02-11,Relocation
+29,195,2019-01-26,End of contract
+30,106,2022-03-02,Relocation

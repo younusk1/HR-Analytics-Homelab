@@ -146,27 +146,7 @@ HR-Analytics-Homelab/
 5. **Access dashboards**
    - Metabase: http://localhost:3000
    - n8n: http://localhost:5678
-   - PostgreSQL: localhost:5432
-
-## Data Architecture
-
-### Data Generation
-
-The `generate_data.py` script creates realistic HR datasets:
-
-- **200 employees** across 6 departments
-- **40 managers** (~20% of workforce)
-- **402 performance reviews** (1-3 per employee)
-- **415 training records** with completion dates and scores
-- **30 turnover events** (~15% attrition rate)
-
-### Database Schema
-
-- `employees` - Master employee records
-- `managers` - Manager-employee relationships
-- `performance_reviews` - Historical performance ratings
-- `training_records` - Training completion tracking
-- `turnover` - Employee separation records
+   - PostgreSQL: http://localhost:5432
 
 ## Usage
 
@@ -227,47 +207,22 @@ SELECT COUNT(*) FROM training_records WHERE score IS NULL;
 - Clear browser cache and refresh
 - Check Metabase logs: `docker-compose logs metabase`
 
-## Development & Customization
-
-### Adding New Data Sources
-
-1. Extend `generate_data.py` with additional datasets
-2. Update SQL schema to accommodate new tables
-3. Create new Metabase dashboards for visualization
-
-### Workflow Automation
-
-- n8n workflows can be extended for:
-  - Real-time data synchronization
-  - Automated alerts and notifications
-  - Integration with external HR systems (Workday, BambooHR, etc.)
-
-### Dashboard Customization
-
-- Metabase provides drag-and-drop dashboard builder
-- Create custom questions and visualizations
-- Set up scheduled email reports
-
 ## Documentation
 
 See the `Docs/` folder for detailed documentation:
 
 - **architecture.txt** - System design and component interactions
-- **data_dictionary.txt** - Complete field descriptions and data types
+- **data_dictionary.docx** - Complete field descriptions and data types
 - **dockerfile.txt** - Docker configuration details
 - **project_journal.txt** - Development notes and evolution
 
-## Future Enhancements
+## Potential Future Enhancements
 
 - Integration with active directory for real-time employee sync
 - Predictive analytics for turnover and performance
 - Mobile app for manager access to dashboards
 - Advanced permission and role-based access control
 - Historical data retention and archival policies
-
-## License
-
-See `Docs/License.txt` for licensing information.
 
 ## Support & Contributions
 

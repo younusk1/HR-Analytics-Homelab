@@ -1,0 +1,41 @@
+manager_id,employee_id,department,start_date
+1,153,Sales,2020-08-18
+2,11,Engineering,2017-11-22
+3,159,Customer Support,2020-09-28
+4,21,Marketing,2024-05-08
+5,108,Sales,2023-09-09
+6,169,Finance,2023-02-28
+7,150,Marketing,2025-06-01
+8,145,Finance,2019-03-27
+9,134,Finance,2016-09-19
+10,81,Customer Support,2016-10-25
+11,67,Customer Support,2021-04-22
+12,53,Marketing,2018-05-21
+13,172,Marketing,2017-09-14
+14,184,Sales,2018-12-27
+15,191,Finance,2020-12-05
+16,62,Engineering,2016-02-13
+17,68,Engineering,2020-11-19
+18,102,Customer Support,2018-09-02
+19,34,Customer Support,2018-08-02
+20,188,Sales,2024-12-08
+21,166,HR,2018-03-28
+22,77,Marketing,2021-06-23
+23,118,Engineering,2024-05-17
+24,186,Customer Support,2023-03-11
+25,19,HR,2024-08-31
+26,3,Engineering,2019-01-17
+27,178,Marketing,2018-07-18
+28,160,HR,2020-09-23
+29,193,HR,2022-06-22
+30,26,HR,2020-01-01
+31,176,Marketing,2018-04-06
+32,138,Customer Support,2024-04-22
+33,55,Customer Support,2025-06-01
+34,130,Finance,2020-01-21
+35,187,HR,2021-05-03
+36,182,Customer Support,2024-03-14
+37,90,Finance,2025-06-01
+38,18,Sales,2022-05-20
+39,63,Finance,2025-05-13
+40,95,Marketing,2016-10-12
